@@ -11,9 +11,12 @@
 **Embedded Evolution Video**
 
 
-artifacts/videos/evolution.mp4
 
 ---
+
+https://github.com/user-attachments/assets/55311160-6bb8-48ac-ac56-d7dce35e4b05
+
+
 
 ##  Methodology
 
